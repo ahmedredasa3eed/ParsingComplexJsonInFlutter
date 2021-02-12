@@ -1,0 +1,27 @@
+{
+  "id" : "1001",
+  "name" : "Ahmed Reda",
+  "age" : 25,
+  "places" : ["US", "EG", "SA"],
+  "images" : [
+    {
+      "id" : "33",
+      "name" : "image1"
+    },
+    {
+      "id" : "340",
+      "name" : "image2"
+    },
+    {
+      "id" : "343",
+      "name" : "image3"
+    }
+  ],
+  "address" : {
+    "street_no" : "12345",
+    "details" : {
+      "house_no" : 1233,
+      "town" : "Jeddah City"
+    }
+  }
+}
